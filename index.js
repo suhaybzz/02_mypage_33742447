@@ -12,7 +12,7 @@ http.createServer(function(req, res) {
     <body>
       <h1>Hello, I'm Suhayb Ahmed!</h1>
       <h2>Student ID: 33742447</h2>
-      <p>I am learning how to build web apps with Node.js!</p>
+      <p>I am learning how to build web apps with Node.js...</p>
     </body> 
     </html>
   `);
